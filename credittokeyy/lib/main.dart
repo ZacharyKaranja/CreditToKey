@@ -55,7 +55,7 @@ class _MaterialAppBodyState extends State<MaterialAppBody> {
           children: <Widget>[
             Image(
               image: AssetImage('assets/images/ctklogo.png'),
-              width: 100,
+              width: 300,
               height: 100,
             ),
             Align(
