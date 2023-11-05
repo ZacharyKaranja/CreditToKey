@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+.title{
+  color: darkblue;
+}
+
+.label input {
+  width: 100%; 
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+button{
+  border-radius: 50px;
+}
