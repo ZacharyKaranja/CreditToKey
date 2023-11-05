@@ -1,3 +1,7 @@
-# stackblitz-starters-d795xfz
+# CreditToKey
 
-[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/Shyam4142/stackblitz-starters-d795xfz)
+To run open a terminal and type:
+
+`npm i`
+
+`npm run`
